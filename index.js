@@ -1,10 +1,11 @@
- let abriviations = {
-   "N": "North";
-    "S":"South";
-    "E": "East";
-    "W": "West";
+ let directions = {
+   "N": "North",
+    "S":"South",
+    "E": "East",
+    "W": "West",
  };
-document.getElementById("results").innerHTML = abriviations.N;
+document.getElementById("results").innerHTML = directions.N;
+
 
 
 
